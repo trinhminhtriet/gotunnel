@@ -1,5 +1,7 @@
 # Go Tunnel
 
+> ⚠️ **Notice:** This project is under active development. Expect frequent updates and potential breaking changes. Your feedback is highly appreciated!
+
 🚀 Minimal Go-based tunneling tool for seamless localhost public access.
 
 ## ✨ Features
